@@ -1,12 +1,12 @@
 {
   "name": "node_js_02-12-25",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "Index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon Index.js",
+    "start": "node Index.js"
   },
   "keywords": [],
   "author": "Aswath",
